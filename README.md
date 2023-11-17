@@ -18,7 +18,7 @@ To set up the project, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-github-username/your-repo-name.git
+   git clone https://github.com/SohailGidwani/ChatBot-Streamlit.git
    cd your-repo-name
    ```
 
@@ -49,9 +49,5 @@ Navigate to the displayed URL to interact with the chatbot via the web interface
 - `main.py`: Main application script using Streamlit for the web interface.
 - `utils.py`: Utility functions for query refinement, conversation string construction, and Pinecone index querying.
 - `requirements.txt`: List of Python dependencies for the project.
-
-## Contributing
-
-Contributions to enhance the chatbot are welcome. Please fork the repository and submit a pull request with your proposed changes.
 
 
